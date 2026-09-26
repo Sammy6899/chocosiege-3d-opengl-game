@@ -107,16 +107,7 @@ python src/Chocosiege-SaveTheCandyWorld.py
 
 ---
 
-## 👥 Course & Contribution Architecture 🤝
+## 👤 Author & Acknowledgments
 
-Developed for **CSE423: Computer Graphics**[cite: 7, 8]. The codebase is modularly divided into three core subsystems[cite: 8]:
-
-* **Member 1 (Forest Trail, Hero System & Snowmen):** Hierarchical superhero model, cape waving physics, jump kinematics, lane lerping, infinite scrolling track, background skybox, and snowman AI[cite: 8].
-* **Member 2 (Chocolate Kingdom, Boss AI & Gate Animation):** Chocolate fortress environment, Chocolate King modeling and hit-flashing, multi-lane projectile attacks, and animated portcullis gate[cite: 8].
-* **Member 3 (Procedural Maze, Fog-of-War & Camera Systems):** DFS maze generation with cycle braiding, 3D cupcake wall rendering, cardinal raycasting visibility, Painter's algorithm sorting, and 3-mode camera positioning[cite: 8].
-
----
-
-## 📜 License
-
-Distributed under the **MIT License**. See `LICENSE` for details.
+- **Developer:** [Sammy6899](https://github.com/Sammy6899)
+- **Course:** CSE423 - Computer Graphics
